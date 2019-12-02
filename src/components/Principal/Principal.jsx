@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../components/Header';
-import facebook from '../assets/static/images/social-network/twitter-color.svg';
-import '../assets/styles/components/Principal.scss';
+import Header from '../Header';
+import facebook from '../../assets/static/images/social-network/twitter-color.svg';
+import '../../assets/styles/components/Services.scss';
 
 
 const Principal = () => (

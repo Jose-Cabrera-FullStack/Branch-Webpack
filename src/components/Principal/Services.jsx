@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/styles/components/Services.scss';
+import '../../assets/styles/components/Services.scss';
 
 const Services = () =>(
 

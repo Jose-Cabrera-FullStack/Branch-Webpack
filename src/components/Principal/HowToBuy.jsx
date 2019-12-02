@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/styles/components/HowToBuy.scss';
+import '../../assets/styles/components/Services.scss';
 
 const HowToBuy = () =>(
     <section id="how-to-buy" class="how-to-buy">

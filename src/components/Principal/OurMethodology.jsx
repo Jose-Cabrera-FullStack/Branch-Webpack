@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/styles/components/OurMethodology.scss';
+import '../../assets/styles/components/Services.scss';
 
 const OurMethodology = () =>(
     <section id="our-methodology" class="our-methodology">
